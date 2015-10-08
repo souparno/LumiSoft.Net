@@ -1,12 +1,9 @@
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net", "Net.csproj", "{7AB36CCF-5FFD-4780-A54E-A102ECA028B5}"
 EndProject
 Global
-	GlobalSection(SubversionScc) = preSolution
-		Svn-Managed = True
-		Manager = AnkhSVN - Subversion Support for Visual Studio
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Debug|x86 = Debug|x86
@@ -21,6 +18,10 @@ Global
 		{7AB36CCF-5FFD-4780-A54E-A102ECA028B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AB36CCF-5FFD-4780-A54E-A102ECA028B5}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7AB36CCF-5FFD-4780-A54E-A102ECA028B5}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
